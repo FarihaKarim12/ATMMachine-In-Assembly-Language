@@ -1,2 +1,2 @@
-# ATMMachine-In-Assembly-Language
+# Mini-ATM-Machine
 A console-based Mini ATM Machine implemented in x86 Assembly language using the Irvine32.inc library. The project simulates core ATM functionalities including secure user login, balance inquiry, cash withdrawal, and deposit operations for multiple users. It demonstrates the use of low-level programming concepts such as procedures, arrays, string comparison, conditional branching, and user input handling, along with structured program flow and console interaction.
